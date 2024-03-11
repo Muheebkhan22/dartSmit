@@ -1,0 +1,1 @@
+print('the sum of all is $sum');
